@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "ra",
+      "email": "juanp.arenas@udea.edu.co",
+      "telefono": "1234567",
+      "empresa": "Randall S.A",
+      "id": 27
+    },
+    {
+      "nombre": "Pablo ",
+      "email": "juan1037av@gmail.com",
+      "telefono": "42234",
+      "empresa": "Randall S.A",
+      "id": 28
+    }
+  ]
+}
